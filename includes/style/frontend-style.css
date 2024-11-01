@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your Frontend-specific functionality should be
+ * included in this file.
+ */
+
+.custom-close-button:not(:hover):not(:active):not(.has-background) { background-color: transparent; }
+.custom-close-button:not(:hover):not(:active):not(.has-text-color) { color: #cccccc; }
+.custom-close-button:focus { outline: none; }
